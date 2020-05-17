@@ -3,3 +3,9 @@
 
 .DS_Store
 WaveRGB/.DS_Store
+
+bin/*
+obj/*
+
+/bin
+/obj
