@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveRGB", "WaveRGB\WaveRGB.csproj", "{8ED65C2A-ADD6-4297-AA20-1445B6AAC3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveEchoRGB", "WaveEchoRGB\WaveEchoRGB.csproj", "{98AA669E-54E7-4E96-81B6-10EC6576C26B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8ED65C2A-ADD6-4297-AA20-1445B6AAC3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED65C2A-ADD6-4297-AA20-1445B6AAC3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED65C2A-ADD6-4297-AA20-1445B6AAC3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AA669E-54E7-4E96-81B6-10EC6576C26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AA669E-54E7-4E96-81B6-10EC6576C26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AA669E-54E7-4E96-81B6-10EC6576C26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AA669E-54E7-4E96-81B6-10EC6576C26B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

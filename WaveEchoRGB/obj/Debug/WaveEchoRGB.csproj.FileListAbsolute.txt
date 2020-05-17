@@ -1,0 +1,15 @@
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\bin\Debug\WaveEchoRGB.exe.config
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\bin\Debug\WaveEchoRGB.exe
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\bin\Debug\WaveEchoRGB.pdb
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.csprojAssemblyReference.cache
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\MainWindow.g.cs
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\App.g.cs
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB_MarkupCompile.cache
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB_MarkupCompile.lref
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\MainWindow.baml
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.g.resources
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.Properties.Resources.resources
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.csproj.GenerateResource.cache
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.csproj.CoreCompileInputs.cache
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.exe
+C:\Users\Ricsi\source\repos\WaveRGB\WaveEchoRGB\obj\Debug\WaveEchoRGB.pdb
